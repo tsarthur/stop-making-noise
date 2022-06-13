@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/105854514/173393566-ce72524c-ed58-4492-871b-04ff2b3d3d54.png)
+
 # [Stop Making Noise](https://github.com/tsarthur/stop-making-noise) &nbsp;
 
 [![Price](https://img.shields.io/badge/price-FREE-0098f7.svg)](https://github.com/froala/stop-making-noise/blob/master/LICENSE)
