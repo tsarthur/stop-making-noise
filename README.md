@@ -108,3 +108,11 @@ Graphics license:
   - 
   - 
   - 
+
+## Like this idea?
+I don't need your financial support, although I wouldn't mind 🤪
+
+If you really want to help me, then help me mentally, put an asterisk ⭐️, and I will be happy, and then I will make the whole world happy!
+
+Thanks 😌
+  
