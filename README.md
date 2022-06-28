@@ -11,6 +11,7 @@
 A free app that will control your sound. Now loud sounds (gunshots, explosions, plane crashes) will become quieter, and quiet sounds (whispering, walking) will become loud. — Now the sound will always be on the same wavelength!
 
 
+
 — "My neighbors, stop making noise on the 3rd floor, stop watching action movies every night, please stop 😭"
 
 **Future photos        
